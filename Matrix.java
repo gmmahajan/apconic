@@ -1,7 +1,8 @@
+/*  MATRIX INPUT  */
 import java.util.Scanner;
 class Matrix
 {
-  public static void main(String arg[])
+  public static void main(String args[])
 {
   Scanner KB=new Scanner(System.in);
   System.out.print("enter rows ");
