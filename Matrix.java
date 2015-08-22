@@ -1,4 +1,4 @@
-/*  MATRIX INPUT  */
+/*  MATRIX INPUT BY GAURAV */
 import java.util.Scanner;
 class Matrix
 {
